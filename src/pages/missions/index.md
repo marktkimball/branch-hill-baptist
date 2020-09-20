@@ -23,7 +23,7 @@ missionaries:
     image: /img/john-debbie-mclennan.jpg
   - name: Thomas and Angie Castellaw
     subtitle: Hawaii
-    image: /img/thomas-angie-castellaw-1-.jpg
+    image: /img/castellaws.jpg
 ---
 
 ## How to pray for missionaries

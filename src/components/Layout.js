@@ -6,7 +6,7 @@ import './all.scss';
 import useSiteMetadata from './SiteMetadata';
 import { Link, withPrefix } from 'gatsby';
 
-const TemplateWrapper = ({ children }) => {
+const TemplateWrapper = ({ announcementTitle, children }) => {
   const { title, description } = useSiteMetadata();
   return (
     <div style={{ overflowX: 'hidden' }}>
@@ -49,12 +49,14 @@ const TemplateWrapper = ({ children }) => {
         />
       </Helmet>
       <Navbar />
-      <Link
-        className="depth-2 special-announcements-banner"
-        to="/announcements"
-      >
-        COVID-19 Updates
-      </Link>
+      {announcementTitle && (
+        <Link
+          className="depth-2 special-announcements-banner"
+          to="/announcements"
+        >
+          {announcementTitle}
+        </Link>
+      )}
 
       <div>{children}</div>
       <Footer />
