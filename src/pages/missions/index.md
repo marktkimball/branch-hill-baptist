@@ -7,7 +7,7 @@ lead: Branch Hill Baptist Church has been a mission minded church for many years
   and seeks to be supportive to those forwarding the Gospel of Jesus Christ
   around the world.
 precontent: >
-  Currently the church supports over 40 missionaries and/or mission projects
+  Currently the church supports 60 missionaries and/or mission projects
   worldwide. From the mountains of Papua New Guinea to the streets of South
   Africa, the reach of our missions program has been blessed of the Lord. Not
   only do we support mission endeavors, but we encourage and have taken many
@@ -16,7 +16,7 @@ precontent: >
 
   Jesus gave the scope of missions when he said, “Go into all the world and preach the gospel...” If you are looking for ideas on how to effectively pray for our missionaries and their needs, please take a look at the information below.
 
-  We are delighted to be the home church to Thomas and Angie Castellaw who are serving in Germany and John and Debbie MacClennan who are serving in Scotland.
+  We are delighted to be the home church to Thomas and Angie Castellaw who are serving in Germany, John and Debbie MacLennan who are serving in Scotland and the Jose' Gomez family serving in Mexico.
 missionaries:
   - name: John and Debbie MacLennan
     subtitle: Scotland
