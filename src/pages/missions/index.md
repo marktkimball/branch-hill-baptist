@@ -24,6 +24,9 @@ missionaries:
   - name: Thomas and Angie Castellaw
     subtitle: Hawaii
     image: /img/castellaws.jpg
+  - image: /img/gomezfamilyportraitfinal.jpg
+    name: Jose' Gomez Family
+    subtitle: Mexico
 ---
 
 ## How to pray for missionaries
