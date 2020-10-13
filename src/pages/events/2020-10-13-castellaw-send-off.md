@@ -11,4 +11,6 @@ address: 6526 Branch Hill Guinea Pike, Loveland, Ohio  45140
 tags:
   - Fellowship
 ---
+![](/img/castellaws.jpg)
+
 Please join us for a special service followed by a time of food and fellowship in the church fellowship hall, where we will enjoy time with Bro. & Sister Castellaw before they leave for their next field of service.  If you can, we ask you bring some sort of finger food or desert for the fellowship but if this is not possible it certainly is not nessesary.  It is your presence that we desire.  Join us for the service beginning at 7PM and the fellowship to follow directly after.
