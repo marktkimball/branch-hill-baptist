@@ -46,10 +46,6 @@ items:
       evening. If you wish to keep your child with you during the service,
       please feel free to do so. There is a foyer area should you need to sneak
       out for a moment for any reason with your little ones.
-intro:
-  - image: /img/i-m-new-here_1500x729.png
-    lead: What can I expect??
-    text: |
-      Information to set you at ease.
+intro: []
 ---
 At Branch Hill Baptist Church we want to make sure our guests feel welcome and know what to expect when they walk through our doors. We know there may be many questions you have such as, which door do I come in, is there a nursery for all services, what kind of music can I expect? Let us take a couple moments and fill you in so you can feel completely at ease when you enter our church home.
