@@ -2,7 +2,7 @@
 templateKey: im-new-page
 path: /im-new
 title: Plan Your Visit
-subtitle: What to expect
+subtitle: What to Expect
 items:
   - image: /img/clock.png
     lead: When do you meet?
