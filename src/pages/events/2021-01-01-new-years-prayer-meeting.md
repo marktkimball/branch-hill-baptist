@@ -6,7 +6,7 @@ description: "Each year one of our members hosts an open house for a time of
   fellowship as we say goodbye to the old year and look ahead to the new.  "
 featuredEvent: true
 location: Location will be announced in services.
-address: 6526 Guinea Pike, Loveland, Ohio 45140
+address: 6526 Branch Hill Guinea Pike, Loveland, Ohio 45140
 tags:
   - prayer
 ---
