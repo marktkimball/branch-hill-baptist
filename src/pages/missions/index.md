@@ -12,10 +12,9 @@ precontent: >
   Africa, the reach of our missions program has been blessed of the Lord. Not
   only do we support mission endeavors, but we encourage visiting missionaries
   and have taken many missions trips ourselves to places such as Belize, Mexico,
-  Germany, and Québec. Jesus gave the scope of missions when he said, “Go into
-  all the world and preach the gospel...” If you are looking for ideas on how to
-  effectively pray for our missionaries and their needs, please take a look at
-  the information below.
+  Germany, and Québec. 
+
+  Jesus gave the scope of missions when he said, “Go into all the world and preach the gospel...” If you are looking for ideas on how to effectively pray for our missionaries and their needs, please take a look at the information below.
 
   We are delighted to be the home church to Thomas and Angie Castellaw who served for over 20 years in Germany and are now serving in Hawaii, John and Debbie MacLennan who are serving in Scotland, and the José Gómez family serving in Mexico.
 missionaries:
