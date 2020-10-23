@@ -2,21 +2,22 @@
 templateKey: missions-page
 path: /missions
 title: Missions
-subtitle: Reaching the unreached
-lead: Branch Hill Baptist Church has been a mission minded church for many years
+subtitle: Reaching the Unreached
+lead: Branch Hill Baptist Church has been a mission-minded church for many years
   and seeks to be supportive to those forwarding the Gospel of Jesus Christ
   around the world.
 precontent: >
   Currently the church supports 60 missionaries and/or mission projects
   worldwide. From the mountains of Papua New Guinea to the streets of South
   Africa, the reach of our missions program has been blessed of the Lord. Not
-  only do we support mission endeavors, but we encourage and have taken many
-  missions trips ourselves to places such as Belize, Mexico, Germany, and
-  Québec.
+  only do we support mission endeavors, but we encourage visiting missionaries
+  and have taken many missions trips ourselves to places such as Belize, Mexico,
+  Germany, and Québec. Jesus gave the scope of missions when he said, “Go into
+  all the world and preach the gospel...” If you are looking for ideas on how to
+  effectively pray for our missionaries and their needs, please take a look at
+  the information below.
 
-  Jesus gave the scope of missions when he said, “Go into all the world and preach the gospel...” If you are looking for ideas on how to effectively pray for our missionaries and their needs, please take a look at the information below.
-
-  We are delighted to be the home church to Thomas and Angie Castellaw who are serving in Germany, John and Debbie MacLennan who are serving in Scotland and the Jose' Gomez family serving in Mexico.
+  We are delighted to be the home church to Thomas and Angie Castellaw who served for over 20 years in Germany and are now serving in Hawaii, John and Debbie MacLennan who are serving in Scotland, and the José Gómez family serving in Mexico.
 missionaries:
   - name: John and Debbie MacLennan
     subtitle: Scotland
@@ -25,10 +26,9 @@ missionaries:
     subtitle: Hawaii
     image: /img/castellaws.jpg
   - image: /img/gomezfamilyportraitfinal.jpg
-    name: Jose' Gomez Family
+    name: José Gómez Family
     subtitle: Mexico
 ---
-
 ## How to pray for missionaries
 
 The great church planter and missionary statesman, the apostle Paul, from the depths of his heart expressed the request that every missionary today would have "Brothers, pray for us" (I Thess. 5:25). The cause of world evangelism must go forward on the wings of prayer. Many churches on a regular basis have a word of prayer for the missionaries, but just how knowledgeable are our prayers? How can we, individually and collectively, be more effective in helping our missionaries through prayer?
@@ -37,9 +37,9 @@ The great church planter and missionary statesman, the apostle Paul, from the de
 
 The great harvest field of the world demands laborers. It was our Lord Himself Who instructed us, "Pray ye therefore the Lord of the harvest, that he will send forth laborers into his harvest" (Matt. 9:38). Every Christian needs to beseech the Lord on a regular basis that He will raise up more missionaries. The exploding population of the earth demands more witnesses. In recent years there has been a noticeable decline in the number of missionary volunteers. Large numbers of faithful missionaries are reaching retirement age, and to replace these workers alone will require a considerable increase in new appointees. Ask God to reach into your local church and motivate believers to present themselves for full-time missionary service.
 
-#### Peronsal spiritual life
+#### Personal spiritual life
 
-Too often our prayers for missionaries are directed toward physical or financial needs. These, however, are not the greatest needs of God's servants. Paul reminded the Ephesian believers that he was praying for them. He prayed "that the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him" (Eph. l:17). "The knowledge of him" [Christ] is the most important single ingredient for successful missionary service. Ask God to make the missionary holy. Ask Him to enlarge his prayer life and his faith. The missionary needs to be filled with the Spirit and, as a result, to be evidencing the fruit of the Spirit. He needs insight into the meaning of Scripture. He must have wisdom in discerning the will of God and in making good decisions.
+Too often our prayers for missionaries are directed toward physical or financial needs. These, however, are not the greatest needs of God's servants. Paul reminded the Ephesian believers that he was praying for them. He prayed "that the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him" (Eph. l:17). "The knowledge of him" \[Christ] is the most important single ingredient for successful missionary service. Ask God to make the missionary holy. Ask Him to enlarge his prayer life and his faith. The missionary needs to be filled with the Spirit and, as a result, to be evidencing the fruit of the Spirit. He needs insight into the meaning of Scripture. He must have wisdom in discerning the will of God and in making good decisions.
 
 #### Family life
 
@@ -61,7 +61,7 @@ Genuine love is the lubricant that makes for good relationships. In writing to t
 
 #### Successful evangelism
 
-As a missionary Paul was particularly concerned that his friends pray for successful evangelistic outreach. "Finally, brethren, pray for us, that the word of the Lord may have free course [spread rapidly], and be glorified" (II Thess. 3:l). The purpose of missionary work is to win people to Christ and to disciple them into mature believers. Ask the Lord to give your missionaries good contacts. They need to discover productive ways of reaching people in the culture where they are. Pray also that national believers will have an evangelistic zeal for their own people, and pray that there will be receptive hearts among those to whom the Gospel is presented.
+As a missionary Paul was particularly concerned that his friends pray for successful evangelistic outreach. "Finally, brethren, pray for us, that the word of the Lord may have free course \[spread rapidly], and be glorified" (II Thess. 3:l). The purpose of missionary work is to win people to Christ and to disciple them into mature believers. Ask the Lord to give your missionaries good contacts. They need to discover productive ways of reaching people in the culture where they are. Pray also that national believers will have an evangelistic zeal for their own people, and pray that there will be receptive hearts among those to whom the Gospel is presented.
 
 #### Everyday stress
 
@@ -69,7 +69,7 @@ In foreign countries just the daily stress of living can be daunting to the miss
 
 #### Perseverance
 
-Evangelism and church planting in foreign lands are difficult. Satan is active and is opposing attempts to win converts and plant churches. Progress can be agonizingly slow. Results may be very meager even after years of work. The missionary must plod on, often without any "exciting" news to report. Paul, aware of the tremendous impediments to the struggling Christian, wrote to the believers at Colossae: "I do not cease to pray for you...that you might [be] strengthened...unto all patience [endurance] and longsuffering with joyfulness" (Col. l:9-11). Endurance is so necessary in missionary service, but it must also be accompanied by "joyfulness." In interceding for missionaries don't forget to pray for this combination.
+Evangelism and church planting in foreign lands are difficult. Satan is active and is opposing attempts to win converts and plant churches. Progress can be agonizingly slow. Results may be very meager even after years of work. The missionary must plod on, often without any "exciting" news to report. Paul, aware of the tremendous impediments to the struggling Christian, wrote to the believers at Colossae: "I do not cease to pray for you...that you might \[be] strengthened...unto all patience \[endurance] and longsuffering with joyfulness" (Col. l:9-11). Endurance is so necessary in missionary service, but it must also be accompanied by "joyfulness." In interceding for missionaries don't forget to pray for this combination.
 
 #### Conclusion
 
