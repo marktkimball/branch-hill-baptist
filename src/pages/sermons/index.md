@@ -2,7 +2,7 @@
 templateKey: sermons-page
 path: /sermons
 title: Sermon Archives
-subtitle: Past sermons from the pulpit of Branch Hill Baptist Church
+subtitle: Past Sermons from the Pulpit of Branch Hill Baptist Church
 lead: Left click sermon file to download to your device.  To listen to without
   download, right click and open in new tab or window.
 sermons:
