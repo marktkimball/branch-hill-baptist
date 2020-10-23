@@ -38,14 +38,15 @@ items:
       comfortable on your visit.
   - image: /img/baby_bottle.png
     lead: Do you have a nursery?
-    text: >
-      We do have a nursery available for children under the age of 3. The
-      nursery is well staffed and available during Sunday School and the main
-      Sunday service. There is no nursery available on Sunday evening or
-      Wednesday evening. 
+    text: >+
+      We do have a nursery available for children under the age of 3. It is well
+      staffed and available during Sunday School and the main Sunday service.
+      (No nursery is available on Sunday evening or Wednesday evening.) But, if
+      you wish to keep your child with you during the service, please feel free
+      to do so. There is a foyer area should you need to sneak out for a moment
+      with your little ones. 
 
 
-      If you wish to keep your child with you during the service, please feel free to do so. There is a foyer area should you need to sneak out for a moment with your little ones.
 intro: []
 ---
 At Branch Hill Baptist Church we want to make sure our guests feel welcome and know what to expect when they walk through our doors. We know there may be many questions you have such as, which door do I come in, is there a nursery for all services, what kind of music can I expect? Let us take a couple moments and fill you in so you can feel completely at ease when you enter our church home.
