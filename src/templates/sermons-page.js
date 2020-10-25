@@ -79,7 +79,7 @@ export const SermonsPageQuery = graphql`
           file {
             publicURL
           }
-          date(formatString: "MMMM DD, YYYY")
+          date
         }
       }
     }
