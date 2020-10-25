@@ -12,14 +12,16 @@ export const Sermons = ({ sermons }) => (
         </div>
         <div className="sermon-content-container">
           {sermon.date}
-          <a
-            href={sermon.file.publicURL}
-            rel="noopener noreferrer"
-            target="_blank"
-            download
-          >
-            Download
-          </a>
+          {sermon.file && sermon.file.publicURL && (
+            <a
+              href={sermon.file.publicURL}
+              rel="noopener noreferrer"
+              target="_blank"
+              download
+            >
+              Download
+            </a>
+          )}
         </div>
       </div>
     ))}

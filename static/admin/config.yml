@@ -2,55 +2,55 @@ backend:
   name: git-gateway
   branch: master
   commit_messages:
-    create: 'Create {{collection}} “{{slug}}”'
-    update: 'Update {{collection}} “{{slug}}”'
-    delete: 'Delete {{collection}} “{{slug}}”'
-    uploadMedia: '[skip ci] Upload “{{path}}”'
-    deleteMedia: '[skip ci] Delete “{{path}}”'
+    create: "Create {{collection}} “{{slug}}”"
+    update: "Update {{collection}} “{{slug}}”"
+    delete: "Delete {{collection}} “{{slug}}”"
+    uploadMedia: "[skip ci] Upload “{{path}}”"
+    deleteMedia: "[skip ci] Delete “{{path}}”"
 
 media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'events'
-    label: 'Events'
-    folder: 'src/pages/events'
+  - name: "events"
+    label: "Events"
+    folder: "src/pages/events"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'event-item',
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "event-item",
         }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Event Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'text' }
-      - { label: 'Featured Event', name: 'featuredEvent', widget: 'boolean' }
-      - { label: 'Location', name: 'location', widget: 'string' }
-      - { label: 'Address', name: 'address', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Event Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Featured Event", name: "featuredEvent", widget: "boolean" }
+      - { label: "Location", name: "location", widget: "string" }
+      - { label: "Address", name: "address", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
 
-  - name: 'pages'
-    label: 'Pages'
+  - name: "pages"
+    label: "Pages"
     files:
-      - file: 'src/pages/index.md'
-        label: 'Home Page'
-        name: 'index'
+      - file: "src/pages/index.md"
+        label: "Home Page"
+        name: "index"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'index-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "index-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Image, name: image, widget: image }
           - { label: Logo, name: logo, widget: image }
           - {
-              label: 'Mission Statement',
+              label: "Mission Statement",
               name: missionStatement,
               widget: string,
             }
@@ -59,32 +59,32 @@ collections:
               name: announcementTitle,
               widget: string,
             }
-      - file: 'src/pages/about/index.md'
-        label: 'About'
-        name: 'about'
+      - file: "src/pages/about/index.md"
+        label: "About"
+        name: "about"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'about-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "about-page",
             }
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Subtitle', name: subtitle, widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/im-new/index.md'
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: subtitle, widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/im-new/index.md"
         label: "I'm New"
-        name: 'im-new'
+        name: "im-new"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'im-new-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "im-new-page",
             }
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Subtitle', name: subtitle, widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: subtitle, widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
           - {
               label: Items,
               name: items,
@@ -96,67 +96,67 @@ collections:
                   { label: Text, name: text, widget: text },
                 ],
             }
-      - file: 'src/pages/beliefs/index.md'
-        label: 'Beliefs Page'
-        name: 'beliefs'
+      - file: "src/pages/beliefs/index.md"
+        label: "Beliefs Page"
+        name: "beliefs"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'beliefs-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "beliefs-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: string }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/credits/index.md'
-        label: 'Credits Page'
-        name: 'credits'
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/credits/index.md"
+        label: "Credits Page"
+        name: "credits"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'credits-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "credits-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Credits, name: credits, widget: list, allow_add: true }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/give/index.md'
-        label: 'Give Page'
-        name: 'give'
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/give/index.md"
+        label: "Give Page"
+        name: "give"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'give-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "give-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: string }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/history/index.md'
-        label: 'History Page'
-        name: 'history'
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/history/index.md"
+        label: "History Page"
+        name: "history"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'history-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "history-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: string }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/leadership/index.md'
-        label: 'Leadership Page'
-        name: 'leadership'
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/leadership/index.md"
+        label: "Leadership Page"
+        name: "leadership"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'leadership-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "leadership-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: string }
@@ -173,30 +173,30 @@ collections:
                   { label: Bio, name: bio, widget: text },
                 ],
             }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/live-stream/index.md'
-        label: 'Live Stream Page'
-        name: 'live-stream'
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/live-stream/index.md"
+        label: "Live Stream Page"
+        name: "live-stream"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'live-stream-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "live-stream-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: string }
           - { label: Lead, name: lead, widget: string }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/missions/index.md'
-        label: 'Missions Page'
-        name: 'missions'
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/missions/index.md"
+        label: "Missions Page"
+        name: "missions"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'missions-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "missions-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: string }
@@ -213,16 +213,16 @@ collections:
                   { label: Subtitle, name: subtitle, widget: string },
                 ],
             }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/sermons/index.md'
-        label: 'Sermons Page'
-        name: 'sermons'
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/sermons/index.md"
+        label: "Sermons Page"
+        name: "sermons"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'sermons-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "sermons-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: string }
@@ -236,33 +236,38 @@ collections:
                   { label: Title, name: title, widget: string },
                   { label: Speaker, name: speaker, widget: string },
                   { label: File, name: file, widget: file },
-                  { label: Date, name: date, widget: datetime },
+                  {
+                    label: Date,
+                    name: date,
+                    widget: date,
+                    format: "MMM DD, YYYY",
+                  },
                 ],
             }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/sunday-school/index.md'
-        label: 'Sunday School Page'
-        name: 'sunday-school'
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/sunday-school/index.md"
+        label: "Sunday School Page"
+        name: "sunday-school"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'sunday-school-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "sunday-school-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: string }
           - { label: Lead, name: lead, widget: string }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/announcements/index.md'
-        label: 'Announcements Page'
-        name: 'announcements'
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/announcements/index.md"
+        label: "Announcements Page"
+        name: "announcements"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'announcements-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "announcements-page",
             }
           - { label: Title, name: title, widget: string }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: "Body", name: "body", widget: "markdown" }
