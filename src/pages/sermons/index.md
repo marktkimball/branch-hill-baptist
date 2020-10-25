@@ -6,7 +6,7 @@ subtitle: Past Sermons from the Pulpit of Branch Hill Baptist Church
 lead: Left click sermon file to download to your device.  To listen without
   downloading, right click and open in new tab or window.
 sermons:
-  - date: June 24th, 2020
+  - date: June 24, 2020
     title: The Un-Prodigal Son
     speaker: Damon Brown
     file: /img/2020-06-24_wed.mp3
