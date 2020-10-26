@@ -5,7 +5,7 @@ date: 2020-11-14T13:30:00.000Z
 description: Monthly Men’s Breakfast meeting around the scriptures.
 featuredEvent: true
 location: Branch Hill Baptist Church Fellowship Hall
-address: 6526 Branch Hill Guinea Pike, Loveland, Ohio. 45140
+address: 6526 Branch Hill-Guinea Pike, Loveland, Ohio. 45140
 tags:
   - Men’s Meeting
 ---
