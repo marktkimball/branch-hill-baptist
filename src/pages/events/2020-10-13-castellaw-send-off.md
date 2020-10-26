@@ -7,7 +7,7 @@ description: "Wednesday, Oct. 14th will be Bro. and Sister Castellaw's last
   Hawaii.  "
 featuredEvent: true
 location: Branch Hill Baptist Church Fellowship Hall
-address: 6526 Branch Hill Guinea Pike, Loveland, Ohio  45140
+address: 6526 Branch Hill-Guinea Pike, Loveland, Ohio  45140
 tags:
   - Fellowship
 ---
