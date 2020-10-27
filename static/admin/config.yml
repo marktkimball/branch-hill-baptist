@@ -91,9 +91,9 @@ collections:
               widget: list,
               fields:
                 [
-                  { label: Image, name: image, widget: image },
                   { label: Lead, name: lead, widget: string },
                   { label: Text, name: text, widget: text },
+                  { label: Image, name: image, widget: image },
                 ],
             }
       - file: "src/pages/beliefs/index.md"
@@ -167,10 +167,10 @@ collections:
               widget: list,
               fields:
                 [
-                  { label: Image, name: image, widget: image },
                   { label: Name, name: name, widget: string },
                   { label: Subtitle, name: subtitle, widget: string },
                   { label: Bio, name: bio, widget: text },
+                  { label: Image, name: image, widget: image },
                 ],
             }
           - { label: "Body", name: "body", widget: "markdown" }
@@ -213,9 +213,9 @@ collections:
               widget: list,
               fields:
                 [
-                  { label: Image, name: image, widget: image },
                   { label: Name, name: name, widget: string },
                   { label: Subtitle, name: subtitle, widget: string },
+                  { label: Image, name: image, widget: image },
                 ],
             }
           - { label: "Body", name: "body", widget: "markdown" }
