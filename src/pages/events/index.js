@@ -12,7 +12,7 @@ export default class EventsIndexPage extends React.Component {
         <MiniHero
           image={EventsImage}
           title="Upcoming Events"
-          subtitle="Gather with us"
+          subtitle="Gather with Us"
         />
         <section className="section">
           <div className="container">

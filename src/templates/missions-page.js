@@ -8,24 +8,25 @@ import StaffMembers from '../components/StaffMembers';
 import MissionsImage from '../img/missions.jpg';
 
 export const MissionsPageTemplate = ({
-  title,
-  subtitle,
-  precontent,
-  lead,
-  missionaries,
   content,
   contentComponent,
+  lead,
+  missionaries,
+  precontent,
+  subtitle,
+  title,
 }) => {
   const PageContent = contentComponent || Content;
+
   return (
     <>
       <MiniHero image={MissionsImage} title={title} subtitle={subtitle} />
       <p className="about-page-lead">{lead}</p>
       <section className="section section--gradient">
-        <PageContent
+        {precontent.map(({ text }) => <PageContent
           className="content about-subsection"
-          content={precontent}
-        />
+          content={text}
+        />)}
         <div className="content missionaries-container">
           <StaffMembers staff={missionaries} />
         </div>
@@ -36,12 +37,12 @@ export const MissionsPageTemplate = ({
 };
 
 MissionsPageTemplate.propTypes = {
-  title: PropTypes.string,
-  precontent: PropTypes.string,
-  subtitle: PropTypes.string,
+  content: PropTypes.node,
   lead: PropTypes.string,
   missionaries: PropTypes.array,
-  content: PropTypes.node,
+  precontent: PropTypes.arrayOf(PropTypes.object),
+  subtitle: PropTypes.string,
+  title: PropTypes.string,
 };
 
 const MissionsPage = ({ data }) => {
@@ -50,13 +51,13 @@ const MissionsPage = ({ data }) => {
   return (
     <Layout>
       <MissionsPageTemplate
-        title={post.frontmatter.title}
-        precontent={post.frontmatter.precontent}
-        lead={post.frontmatter.lead}
-        subtitle={post.frontmatter.subtitle}
-        missionaries={post.frontmatter.missionaries}
-        contentComponent={HTMLContent}
         content={post.html}
+        contentComponent={HTMLContent}
+        lead={post.frontmatter.lead}
+        missionaries={post.frontmatter.missionaries}
+        precontent={post.frontmatter.precontent}
+        subtitle={post.frontmatter.subtitle}
+        title={post.frontmatter.title}
       />
     </Layout>
   );
@@ -79,7 +80,9 @@ export const MissionsPageQuery = graphql`
       frontmatter {
         title
         subtitle
-        precontent
+        precontent {
+          text
+        }
         lead
         missionaries {
           name

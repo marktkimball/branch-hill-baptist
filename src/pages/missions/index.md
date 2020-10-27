@@ -6,17 +6,20 @@ subtitle: Reaching the Unreached
 lead: Branch Hill Baptist Church has been a mission-minded church for many years
   and seeks to be supportive to those forwarding the Gospel of Jesus Christ
   around the world.
-precontent: >
-  Currently the church supports 60 missionaries and/or mission projects
-  worldwide. From the mountains of Papua New Guinea to the streets of South
-  Africa, the reach of our missions program has been blessed of the Lord. Not
-  only do we support mission endeavors, but we encourage visiting missionaries
-  and have taken many missions trips ourselves to places such as Belize, Mexico,
-  Germany, and Québec. 
+precontent:
+  - text: >
+      Currently the church supports 60 missionaries and/or mission projects
+      worldwide. From the mountains of Papua New Guinea to the streets of South
+      Africa, the reach of our missions program has been blessed of the Lord. Not
+      only do we support mission endeavors, but we encourage visiting missionaries
+      and have taken many missions trips ourselves to places such as Belize, Mexico,
+      Germany, and Québec.
 
-  Jesus gave the scope of missions when he said, “Go into all the world and preach the gospel...” If you are looking for ideas on how to effectively pray for our missionaries and their needs, please take a look at the information below.
+  - text: >
+      Jesus gave the scope of missions when he said, “Go into all the world and preach the gospel...” If you are looking for ideas on how to effectively pray for our missionaries and their needs, please take a look at the information below.
 
-  We are delighted to be the home church to Thomas and Angie Castellaw who served for over 20 years in Germany and are now serving in Hawaii, John and Debbie MacLennan who are serving in Scotland, and the José Gómez family serving in Mexico.
+  - text: >
+      We are delighted to be the home church to Thomas and Angie Castellaw who served for over 20 years in Germany and are now serving in Hawaii, John and Debbie MacLennan who are serving in Scotland, and the José Gómez family serving in Mexico.
 missionaries:
   - name: John and Debbie MacLennan
     subtitle: Scotland
@@ -28,6 +31,7 @@ missionaries:
     name: José Gómez Family
     subtitle: Mexico
 ---
+
 ## How to pray for missionaries
 
 The great church planter and missionary statesman, the apostle Paul, from the depths of his heart expressed the request that every missionary today would have "Brothers, pray for us" (I Thess. 5:25). The cause of world evangelism must go forward on the wings of prayer. Many churches on a regular basis have a word of prayer for the missionaries, but just how knowledgeable are our prayers? How can we, individually and collectively, be more effective in helping our missionaries through prayer?

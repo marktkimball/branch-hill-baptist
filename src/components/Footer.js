@@ -39,11 +39,15 @@ const Footer = class extends React.Component {
               <h4>Contact</h4>
               <ul className="footer-link-list contact-list">
                 <li>
-                  <a className="phone-link" href="tel:5136833663">
+                  <a className="clickable-link" href="tel:5136833663">
                     phone: (513) 683-3663
                   </a>
                 </li>
-                <li>email: info@branchhill.org</li>
+                <li>
+                  <a className="clickable-link" href="mailto:info@branchhill.org">
+                    email: info@branchhill.org
+                  </a>
+                </li>
                 <li>fax: (513) 683-4685</li>
               </ul>
             </div>
@@ -59,7 +63,7 @@ const Footer = class extends React.Component {
                     rel="noopener noreferrer"
                     target="_blank"
                   >
-                    <div>6526 Guinea Pike</div>
+                    <div>6526 Branch Hill-Guinea Pike</div>
                     <div>Loveland, Ohio 45140</div>
                   </a>
                 </li>
