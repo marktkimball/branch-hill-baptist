@@ -8,7 +8,7 @@ const MissionsPagePreview = ({ entry, widgetFor }) => (
     subtitle={entry.getIn(['data', 'subtitle'])}
     title={entry.getIn(['data', 'title'])}
     lead={entry.getIn(['data', 'lead'])}
-    precontent={entry.getIn(['data', 'precontent'])}
+    precontent={entry.getIn(['data', 'precontent']).toJS()}
     missionaries={entry.getIn(['data', 'missionaries']).toJS()}
   />
 );
