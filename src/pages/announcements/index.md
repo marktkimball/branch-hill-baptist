@@ -3,5 +3,4 @@ templateKey: announcements-page
 path: /announcements
 title: Announcements
 ---
-
-Special COVID-19 announcement will appear here
+There are no special announcements at this time.
