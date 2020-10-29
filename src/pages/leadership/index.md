@@ -8,7 +8,7 @@ lead: Our senior leaders are one team that exists to serve, using their gifts,
 staff:
   - name: Joel Greer
     subtitle: Senior Pastor
-    image: /img/PastorSonya.jpg
+    image: /img/pastor-sonya.png
     bio: >
       Pastor Greer was called to preach 35 years ago and has been the pastor of
       Branch Hill Baptist Church for the past 33 years. A student of the
