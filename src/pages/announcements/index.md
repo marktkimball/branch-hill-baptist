@@ -1,6 +1,6 @@
 ---
 templateKey: announcements-page
 path: /announcements
-title: Announcements
+title: Wednesday, Dec. 16 - Evening Service is Cancelled
 ---
-There are no special announcements at this time.
+We are cancelling service tonight due to illness in the congregation.
