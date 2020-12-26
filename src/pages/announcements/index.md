@@ -1,6 +1,6 @@
 ---
 templateKey: announcements-page
 path: /announcements
-title: All Weekend Activities Cancelled
+title: Sunday Services will be LiveStreamed.
 ---
-Due to illness, the caroling outing on Saturday, December 19 and church services on Sunday, December 20 are cancelled.
+Due to illness, services this Sunday will be LiveStream only.
