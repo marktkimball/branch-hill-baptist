@@ -1,6 +1,6 @@
 ---
 templateKey: announcements-page
 path: /announcements
-title: Sunday Services will be LiveStreamed.
+title: Mid-week Service will be LiveStreamed.
 ---
-Due to illness, services this Sunday will be LiveStream only.
+Mid-week service will be LiveStreamed at the usual time, Wednesday @ 7:00 p.m.
