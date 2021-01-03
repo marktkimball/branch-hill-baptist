@@ -1,6 +1,8 @@
 ---
 templateKey: announcements-page
 path: /announcements
-title: Mid-week Service will be LiveStreamed.
+title: Welcome Back!
 ---
-Mid-week service will be LiveStreamed at the usual time, Wednesday @ 7:00 p.m.
+There will be no children's Sunday School.  
+
+Services will be LiveStreamed for those unable to attend.
