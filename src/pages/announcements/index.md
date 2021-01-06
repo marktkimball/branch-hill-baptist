@@ -1,8 +1,6 @@
 ---
 templateKey: announcements-page
 path: /announcements
-title: Welcome Back!
+title: "There are no special announcements at this time. "
 ---
-There will be no children's Sunday School this week.  
-
-Services will also be LiveStreamed for those unable to attend.
+/
