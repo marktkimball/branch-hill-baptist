@@ -28,12 +28,11 @@ staff:
   - name: Jim Blankenship
     subtitle: Missions Manager
     image: /img/jim-brenda-blankenship.jpg
-    bio: >
-      Brother Jim Blankenship has served for most of his 30-plus years at Branch
+    bio: Brother Jim Blankenship has served for most of his 30-plus years at Branch
       Hill in the area of his passion. Brother Jim's love for missions is clear
       in the labor and dedication he has given to this service. Brother Jim and
       his wife, Brenda, have lived in the area all their lives and have a son
-      and daughter-in-law who live in North Carolina.
+      and daughter-in-law and three grandchildren.
 ---
 ## From the Pastor
 
