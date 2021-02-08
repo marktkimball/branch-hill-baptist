@@ -1,6 +1,6 @@
 ---
 templateKey: announcements-page
 path: /announcements
-title: There are no announcements at this time.
+title: This Saturday's Iron Sharpeneth Iron Men's Meeting has been cancelled.
 ---
 :)
