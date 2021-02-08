@@ -1,6 +1,6 @@
 ---
 templateKey: event-item
-title: Iron Sharpeneth Iron Men’s Meeting
+title: Iron Sharpeneth Iron Men’s Meeting - Cancelled
 date: 2021-02-13T13:30:00.000Z
 description: Monthly Men’s Breakfast meeting around the scriptures.
 featuredEvent: true
