@@ -1,7 +1,7 @@
 ---
 templateKey: announcements-page
 path: /announcements
-title: Services Canceled
+title: Services Canceled Wednesday & Saturday
 ---
 Evening Services are canceled due to snow and hazardous driving conditions.
 
