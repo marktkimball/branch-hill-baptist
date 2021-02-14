@@ -1,6 +1,6 @@
 ---
 templateKey: announcements-page
 path: /announcements
-title: Men’s Meeting Canceled
+title: Check back here for special announcements!
 ---
-This Saturday's Iron Sharpeneth Iron Men's Meeting has been canceled.
+:)
