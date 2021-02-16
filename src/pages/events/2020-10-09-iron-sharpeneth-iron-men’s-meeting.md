@@ -1,7 +1,7 @@
 ---
 templateKey: event-item
-title: Iron Sharpeneth Iron Men’s Meeting - Canceled
-date: 2021-02-13T13:30:00.000Z
+title: Iron Sharpeneth Iron Men’s Meeting
+date: 2021-03-13T13:30:00.000Z
 description: Monthly Men’s Breakfast meeting around the scriptures.
 featuredEvent: true
 location: Branch Hill Baptist Church Fellowship Hall
