@@ -22,5 +22,17 @@ sermons:
     title: Lessons From the Prodigal Prophet (Jonah), Pt 2
     speaker: Bro. Doug Rea
     file: /img/2021-02-14.1_ss.mp3
+  - date: February 07, 2021
+    title: The Power of the Moment
+    speaker: Bro. Doug Rea
+    file: /img/2021-02-07.3_pm.mp3
+  - date: February 07, 2021
+    title: How to Ruin a Church
+    speaker: Pastor Joel Greer
+    file: /img/2021-02-07.2_am.mp3
+  - date: February 07, 2021
+    title: Lessons From the Prodigal Prophet (Jonah), Pt 1
+    speaker: Bro. Doug Rea
+    file: /img/2021-02-07.1_ss.mp3
 ---
 "A wise *man* will hear, and will increase learning; and a man of understanding shall attain unto wise counsels."  (Prov. 1:5)
