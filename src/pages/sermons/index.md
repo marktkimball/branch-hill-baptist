@@ -34,5 +34,21 @@ sermons:
     title: Lessons From the Prodigal Prophet (Jonah), Pt 1
     speaker: Bro. Doug Rea
     file: /img/2021-02-07.1_ss.mp3
+  - date: February 03, 2021
+    title: The Book of Revelation, Pt 3
+    speaker: Pastor Joel Greer
+    file: /img/2021-02-03_wed.mp3
+  - date: January 31, 2021
+    title: What Made David Weak
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-31.3_pm.mp3
+  - date: January 31, 2021
+    title: The Other Giant
+    speaker: Bro. Chris Rue
+    file: /img/2021-01-31.2_am.mp3
+  - date: January 31, 2021
+    title: Survey of the Pauline Epistles, Pt 192
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-31.1_ss.mp3
 ---
 "A wise *man* will hear, and will increase learning; and a man of understanding shall attain unto wise counsels."  (Prov. 1:5)
