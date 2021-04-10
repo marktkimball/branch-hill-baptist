@@ -50,5 +50,21 @@ sermons:
     title: Survey of the Pauline Epistles, Pt 192
     speaker: Pastor Joel Greer
     file: /img/2021-01-31.1_ss.mp3
+  - date: January 27, 2021
+    title: The Book of Revelation, Pt 2
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-27_wed.mp3
+  - date: January 24, 2021
+    title: God Knows Your Need (Let Him help)
+    speaker: Bro. Dave Fetter
+    file: /img/2021-01-24.3_pm.mp3
+  - date: January 24, 2021
+    title: Why Did Saul Fail (What runs your life?)
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-24.2_am.mp3
+  - date: January 24, 2021
+    title: Light in the Darkness
+    speaker: Bro. Dave Fetter
+    file: /img/2021-01-24.1_ss.mp3
 ---
 "A wise *man* will hear, and will increase learning; and a man of understanding shall attain unto wise counsels."  (Prov. 1:5)
