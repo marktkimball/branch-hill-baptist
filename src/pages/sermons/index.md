@@ -66,5 +66,21 @@ sermons:
     title: Light in the Darkness
     speaker: Bro. Dave Fetter
     file: /img/2021-01-24.1_ss.mp3
+  - date: January 20, 2021
+    title: The Book of Revelation, Pt 1
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-20_wed.mp3
+  - date: January 17, 2021
+    title: Rightly Dividing, Pt2 (Figurative Language)
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-17.3_pm.mp3
+  - date: January 17, 2021
+    title: Becoming What God Wants Us to Be
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-17.2_am.mp3
+  - date: January 17, 2021
+    title: Survey of the Pauline Epistles, Pt 191
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-17.1_ss.mp3
 ---
 "A wise *man* will hear, and will increase learning; and a man of understanding shall attain unto wise counsels."  (Prov. 1:5)
