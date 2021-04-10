@@ -82,5 +82,37 @@ sermons:
     title: Survey of the Pauline Epistles, Pt 191
     speaker: Pastor Joel Greer
     file: /img/2021-01-17.1_ss.mp3
+  - date: January 13, 2021
+    title: You're Mine (Keeper of Mine Head)
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-13_wed.mp3
+  - date: January 10, 2021
+    title: Rightly Dividing, Pt1 (Division)
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-10.3_pm.mp3
+  - date: January 10, 2021
+    title: Absolute Truth (The Word of God is What the World Needs)
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-10.2_am.mp3
+  - date: January 10, 2021
+    title: Survey of the Pauline Epistles, Pt 190
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-10.1_ss.mp3
+  - date: January 06, 2021
+    title: The Reset (Samuel's)
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-06_wed.mp3
+  - date: January 03, 2021
+    title: The Cycle of Bondage (The trip from being free to being bound)
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-03.3_pm.mp3
+  - date: January 03, 2021
+    title: Anyone Who Thirstest (Come Unto Me and Drink)
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-03.2_am.mp3
+  - date: January 03, 2021
+    title: Survey of the Pauline Epistles, Pt 189
+    speaker: Pastor Joel Greer
+    file: /img/2021-01-03.1_ss.mp3
 ---
 "A wise *man* will hear, and will increase learning; and a man of understanding shall attain unto wise counsels."  (Prov. 1:5)
