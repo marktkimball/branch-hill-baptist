@@ -6,6 +6,22 @@ subtitle: Archived Sermons from the Pulpit of Branch Hill Baptist Church
 lead: To save to your device, click "download".  To listen without downloading,
   right click and "open in new tab" or window.
 sermons:
+  - date: February 24, 2021
+    title: The Book of Revelation, Pt 5
+    speaker: Pastor Joel Greer
+    file: /img/2021-02-24_wed.mp3
+  - date: February 21, 2021
+    title: Three Fears (Compacted and close)
+    speaker: Pastor Joel Greer
+    file: /img/2021-02-21.3_pm.mp3
+  - date: February 21, 2021
+    title: The Salvation of the Palsy
+    speaker: Pastor Joel Greer
+    file: /img/2021-02-21.2_am.mp3
+  - date: February 21, 2021
+    title: Lessons From the Prodigal Prophet (Jonah), Pt 3
+    speaker: Bro. Doug Rea
+    file: /img/2021-02-21.1_ss.mp3
   - date: February 17, 2021
     file: /img/2021-02-17_wed.mp3
     title: The Book of Revelation, Pt 4
