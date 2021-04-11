@@ -6,6 +6,23 @@ subtitle: Archived Sermons from the Pulpit of Branch Hill Baptist Church
 lead: To save to your device, click "download".  To listen without downloading,
   right click and "open in new tab" or window.
 sermons:
+  - date: April 07, 2021
+    speaker: Pastor Joel Greer
+    title: The Book of Revelation, Pt 10
+    file: /img/2021-04-07_wed.mp3
+  - date: April 04, 2021
+    speaker: Pastor Joel Greer
+    title: Effectual in the Christian Life (We often lack fervency)
+    file: /img/2021-04-04.3_pm.mp3
+  - date: April 04, 2021
+    speaker: Pastor Joel Greer
+    title: A Place in Galilee (Crosses in our lives)
+    file: /img/2021-04-04.2_am.mp3
+  - date: April 04, 2021
+    speaker: Pastor Joel Greer
+    title: Survey of the Pauline Epistles, Pt 197 (It's dangerous to get offended at
+      truth)
+    file: /img/2021-04-04.1_ss.mp3
   - date: March 31, 2021
     speaker: Pastor Joel Greer
     title: The Book of Revelation, Pt 9
