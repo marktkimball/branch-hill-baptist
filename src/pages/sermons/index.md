@@ -6,6 +6,18 @@ subtitle: Archived Sermons from the Pulpit of Branch Hill Baptist Church
 lead: To save to your device, click "download".  To listen without downloading,
   right click and "open in new tab" or window.
 sermons:
+  - date: March 10, 2021
+    title: The Book of Revelation, Pt 6
+    speaker: Pastor Joel Greer
+    file: /img/2021-04-07_wed.mp3
+  - date: March 07, 2021
+    title: He Gave Them Up and Over (Stay or Stray)
+    speaker: Pastor Joel Greer
+    file: /img/2021-03-07.2_am.mp3
+  - date: March 07, 2021
+    title: Survey of the Pauline Epistles, Pt 193
+    speaker: Pastor Joel Greer
+    file: /img/2021-03-07.1_ss.mp3
   - date: March 03, 2021
     title: A Healthy Body
     speaker: Bro. Jim Judy
