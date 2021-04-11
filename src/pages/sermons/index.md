@@ -6,6 +6,22 @@ subtitle: Archived Sermons from the Pulpit of Branch Hill Baptist Church
 lead: To save to your device, click "download".  To listen without downloading,
   right click and "open in new tab" or window.
 sermons:
+  - date: March 24, 2021
+    speaker: Pastor Joel Greer
+    title: The Book of Revelation, Pt 8
+    file: /img/2021-03-24_wed.mp3
+  - date: March 21, 2021
+    speaker: Pastor Joel Greer
+    title: My Life (Pastor Greer) (Goals and desires)
+    file: /img/2021-03-21.3_pm.mp3
+  - date: March 21, 2021
+    speaker: Pastor Joel Greer
+    title: Five Areas of Backsliding
+    file: /img/2021-03-21.2_am.mp3
+  - date: March 21, 2021
+    speaker: Pastor Joel Greer
+    title: Survey of the Pauline Epistles, Pt 195
+    file: /img/2021-03-21.1_ss.mp3
   - date: March 17, 2021
     speaker: Pastor Joel Greer
     title: The Book of Revelation, Pt 7
