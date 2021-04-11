@@ -6,6 +6,22 @@ subtitle: Archived Sermons from the Pulpit of Branch Hill Baptist Church
 lead: To save to your device, click "download".  To listen without downloading,
   right click and "open in new tab" or window.
 sermons:
+  - date: March 17, 2021
+    speaker: Pastor Joel Greer
+    title: The Book of Revelation, Pt 7
+    file: /img/2021-03-17_wed.mp3
+  - date: March 14, 2021
+    speaker: Pastor Joel Greer
+    title: Why? (Questions can create mistrust)
+    file: /img/2021-03-14.3_pm.mp3
+  - date: March 14, 2021
+    speaker: Pastor Joel Greer
+    title: Calling Because We Believe (Salvation is both a heart and spiritual issue)
+    file: /img/2021-03-14.2_am.mp3
+  - date: March 14, 2021
+    title: Survey of the Pauline Epistles, Pt 194
+    speaker: Pastor Joel Greer
+    file: /img/2021-03-14.1_ss.mp3
   - date: March 10, 2021
     title: The Book of Revelation, Pt 6
     speaker: Pastor Joel Greer
