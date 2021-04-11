@@ -9,7 +9,7 @@ sermons:
   - date: March 10, 2021
     title: The Book of Revelation, Pt 6
     speaker: Pastor Joel Greer
-    file: /img/2021-04-07_wed.mp3
+    file: /img/2021-03-10_wed.mp3
   - date: March 07, 2021
     title: He Gave Them Up and Over (Stay or Stray)
     speaker: Pastor Joel Greer
