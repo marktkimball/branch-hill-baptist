@@ -6,6 +6,22 @@ subtitle: Archived Sermons from the Pulpit of Branch Hill Baptist Church
 lead: To save to your device, click "download".  To listen without downloading,
   right click and "open in new tab" or window.
 sermons:
+  - date: March 31, 2021
+    speaker: Pastor Joel Greer
+    title: The Book of Revelation, Pt 9
+    file: /img/2021-03-31_wed.mp3
+  - date: March 28, 2021
+    speaker: Pastor Joel Greer
+    title: Three Crosses (The dark lessons)
+    file: /img/2021-03-28.3_pm.mp3
+  - date: March 28, 2021
+    speaker: Pastor Joel Greer
+    title: Lessons of the Cross of Jesus Christ
+    file: /img/2021-03-28.2_am.mp3
+  - date: March 28, 2021
+    file: /img/2021-03-28.1_ss.mp3
+    title: Survey of the Pauline Epistles, Pt 196
+    speaker: Pastor Joel Greer
   - date: March 24, 2021
     speaker: Pastor Joel Greer
     title: The Book of Revelation, Pt 8
